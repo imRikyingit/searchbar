@@ -6,6 +6,12 @@ Searchbar is an Edge extension for switching between search engines faster, with
 
 搜索吧是一个 Edge 扩展，让你在不同搜索引擎之间更快切换，不用反复复制关键词。
 
+**For regular users: install it from the Microsoft Edge Add-ons store.**  
+**给普通用户：请优先从 Microsoft Edge 扩展商店安装。**
+
+Store page / 商店地址:  
+<https://microsoftedge.microsoft.com/addons/detail/%E6%90%9C%E7%B4%A2%E5%90%A7/ohjpllfiepaafindcnhibijceocllogi>
+
 ---
 
 ## English
@@ -49,7 +55,7 @@ The current extracted version includes built-in support for:
 - Anyone who wants a faster alternative to manual copy and paste
 
 ### GitHub project overview
-This repository contains the extracted source of the published Edge extension **Searchbar**.
+This repository is mainly for source code backup, issue tracking, version history, and development of the published Edge extension **Searchbar**.
 
 #### Main features
 - Toolbar popup for direct keyword search
@@ -63,7 +69,11 @@ This repository contains the extracted source of the published Edge extension **
 #### How it works
 Searchbar detects the keyword on the current search page, then builds the target search URL for another engine. If no keyword is detected, it prompts for one so you can continue searching immediately.
 
-#### Installation for development
+#### Installation
+For normal use, please install Searchbar from the Microsoft Edge Add-ons store:
+- <https://microsoftedge.microsoft.com/addons/detail/%E6%90%9C%E7%B4%A2%E5%90%A7/ohjpllfiepaafindcnhibijceocllogi>
+
+#### Installation for development only
 1. Clone this repository.
 2. Open `edge://extensions/` in Microsoft Edge.
 3. Turn on **Developer mode**.
@@ -135,7 +145,7 @@ Suggested captures:
 - 想减少手动复制关键词操作的人
 
 ### GitHub 项目说明
-这个仓库保存的是已发布 Edge 扩展 **搜索吧** 的源码提取版本。
+这个仓库主要用于已发布 Edge 扩展 **搜索吧** 的源码备份、问题跟踪、版本记录和后续开发。
 
 #### 主要功能
 - 工具栏弹窗快速搜索
@@ -149,7 +159,11 @@ Suggested captures:
 #### 工作方式
 搜索吧会先识别当前搜索页面里的关键词，然后拼接目标搜索引擎的搜索链接。如果没识别到关键词，就会弹出输入框，让你继续搜索。
 
-#### 开发安装方法
+#### 安装方式
+普通用户请优先从 Microsoft Edge 扩展商店安装：
+- <https://microsoftedge.microsoft.com/addons/detail/%E6%90%9C%E7%B4%A2%E5%90%A7/ohjpllfiepaafindcnhibijceocllogi>
+
+#### 仅供开发调试的安装方法
 1. 克隆本仓库
 2. 在 Microsoft Edge 中打开 `edge://extensions/`
 3. 打开 **开发人员模式**
