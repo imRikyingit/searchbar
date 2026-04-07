@@ -1,0 +1,32 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extActionTitle__"
+   },
+   "background": {
+      "service_worker": "src/js/background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "src/css/content.css" ],
+      "js": [ "src/js/utils.js", "src/js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "default_locale": "zh_CN",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjjh/PFjZ2s5kIGvo3z0DQZlEbaOxxbbpuX7UodERWRKaZy/CaN3UMXZHazV3Vb0y39dBmp+hh701ermul717spVvEPpWGfCJ8byQSWY6cQW5UUoU+txHYz5f/Snrr1bt437FVOemRRz9bPKLPifihKCYYPl0DjkM8Jt64vfnx7JPCTAJUH4NHLmbdUV5OI6KRccGCGFFcGwMn0NquCBkg/ggzzkWhIr+JHVMRTJQ3qQ9o9A5mwmCXLe7nYcfMfDTJh856QQsd3FDGJDfLGEb68aJ6m9WJNgzoghr8a29psOZApFpFp7oObTi1M+1Gq9PeHL+KzbalWMvxhaCprta+wIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.6.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "icons/setting.svg", "icons/add.svg" ]
+   } ]
+}

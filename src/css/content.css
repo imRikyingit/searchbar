@@ -1,0 +1,8 @@
+/* ================== Content Script CSS ================== */
+
+/* 浮窗容器样式已在 content.js 的 Shadow DOM 中定义 */
+/* 此文件为备用，主要样式通过 Shadow DOM 隔离 */
+
+#search-switcher-host {
+  all: initial;
+}

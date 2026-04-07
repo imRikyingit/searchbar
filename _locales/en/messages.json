@@ -1,0 +1,254 @@
+{
+   "contentAddCurrent": {
+      "description": "Add current page",
+      "message": "Add current page"
+   },
+   "contentAddEngineTitle": {
+      "description": "Content add engine title",
+      "message": "Add new engine"
+   },
+   "contentAlertDeleteFailed": {
+      "description": "Delete failed with reason",
+      "message": "Delete failed: $1"
+   },
+   "contentAlertDeleteFailedSimple": {
+      "description": "Delete failed simple",
+      "message": "Delete failed, please try again"
+   },
+   "contentAlertDuplicate": {
+      "description": "Content duplicate engine",
+      "message": "This engine already exists"
+   },
+   "contentAlertNameRequired": {
+      "description": "Content name required",
+      "message": "Please enter an engine name"
+   },
+   "contentAlertSaveFailed": {
+      "description": "Content save failed with reason",
+      "message": "Save failed: $1"
+   },
+   "contentAlertSaveFailedSimple": {
+      "description": "Content save failed simple",
+      "message": "Save failed, please try again"
+   },
+   "contentAlertUrlNeedQuery": {
+      "description": "Content url must include query",
+      "message": "Template must include {query} placeholder"
+   },
+   "contentAlertUrlRequired": {
+      "description": "Content url required",
+      "message": "Please enter a search URL template"
+   },
+   "contentBoxTitle": {
+      "description": "Floating box title",
+      "message": "Search Engines"
+   },
+   "contentCancel": {
+      "description": "Content cancel",
+      "message": "Cancel"
+   },
+   "contentClose": {
+      "description": "Close button",
+      "message": "Close"
+   },
+   "contentConfirm": {
+      "description": "Confirm button",
+      "message": "Confirm"
+   },
+   "contentConfirmDelete": {
+      "description": "Confirm delete",
+      "message": "Delete custom engine \"$1\"?"
+   },
+   "contentConfirmDeleteBuiltin": {
+      "description": "Confirm delete builtin",
+      "message": "Permanently delete built-in engine \"$1\"?"
+   },
+   "contentDefaultEngineName": {
+      "description": "Default engine name",
+      "message": "Custom Search Engine"
+   },
+   "contentEngineNameLabel": {
+      "description": "Content engine name label",
+      "message": "Engine name"
+   },
+   "contentEngineNamePlaceholder": {
+      "description": "Content engine name placeholder",
+      "message": "e.g. Bilibili"
+   },
+   "contentEngineUrlHintHtml": {
+      "description": "Content engine url hint",
+      "message": "Examples:\u003Cbr>• https://search.bilibili.com/all?keyword={query}\u003Cbr>• https://www.google.com/search?q={query}\u003Cbr>• https://www.baidu.com/s?wd={query}\u003Cbr>• https://blog.mingdao.com/?s={query}"
+   },
+   "contentEngineUrlLabel": {
+      "description": "Content engine url label",
+      "message": "Search URL template (must include {query})"
+   },
+   "contentEngineUrlPlaceholder": {
+      "description": "Content engine url placeholder",
+      "message": "https://search.bilibili.com/all?keyword={query}"
+   },
+   "contentManagerBuiltinTitle": {
+      "description": "Manager builtin section title",
+      "message": "Built-in engines"
+   },
+   "contentManagerCustomTitle": {
+      "description": "Manager custom section title",
+      "message": "Custom engines"
+   },
+   "contentManagerDeleteBuiltinTitle": {
+      "description": "Delete builtin tooltip",
+      "message": "Click to permanently delete this built-in engine"
+   },
+   "contentManagerDeleteTitle": {
+      "description": "Delete button tooltip",
+      "message": "Click to delete"
+   },
+   "contentManagerEmptyCustom": {
+      "description": "Manager empty custom",
+      "message": "No custom engines yet"
+   },
+   "contentManagerEmptyVisible": {
+      "description": "Manager empty visible list",
+      "message": "No visible search engines"
+   },
+   "contentManagerSortHint": {
+      "description": "Manager drag sort hint",
+      "message": "Long press and drag to reorder"
+   },
+   "contentManagerTitle": {
+      "description": "Manager title",
+      "message": "Search Engine Manager"
+   },
+   "contentSave": {
+      "description": "Content save",
+      "message": "Save"
+   },
+   "contentSaving": {
+      "description": "Content saving",
+      "message": "Saving..."
+   },
+   "contentSearchInputPlaceholder": {
+      "description": "Search input placeholder",
+      "message": "Type keywords"
+   },
+   "contentSearchInputTitle": {
+      "description": "Search input title",
+      "message": "Enter keywords"
+   },
+   "contentSearchInputTitleWithEngine": {
+      "description": "Search input title with engine",
+      "message": "Enter keywords ($1)"
+   },
+   "contentSiteSearch": {
+      "description": "Site search",
+      "message": "Site Search"
+   },
+   "contentUnknownEngine": {
+      "description": "Unknown engine",
+      "message": "Unknown engine"
+   },
+   "contentUnknownError": {
+      "description": "Content unknown error",
+      "message": "Unknown error"
+   },
+   "extActionTitle": {
+      "description": "Action button title",
+      "message": "Search engine switcher"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Quickly switch search engines with custom engine support"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Searchbar"
+   },
+   "popupAddEngine": {
+      "description": "Popup add engine button",
+      "message": "Add new engine"
+   },
+   "popupAddTitle": {
+      "description": "Popup add engine dialog title",
+      "message": "Add new engine"
+   },
+   "popupAlertDeleteFailed": {
+      "description": "Popup delete failed",
+      "message": "Delete failed, please try again"
+   },
+   "popupAlertDuplicate": {
+      "description": "Popup duplicate engine",
+      "message": "This engine already exists"
+   },
+   "popupAlertNameRequired": {
+      "description": "Popup name required",
+      "message": "Please enter an engine name"
+   },
+   "popupAlertSaveFailed": {
+      "description": "Popup save failed",
+      "message": "Save failed, please try again"
+   },
+   "popupAlertUrlNeedQuery": {
+      "description": "Popup url must include query",
+      "message": "Template must include {query} placeholder"
+   },
+   "popupAlertUrlRequired": {
+      "description": "Popup url required",
+      "message": "Please enter a search URL template"
+   },
+   "popupBuiltinTitle": {
+      "description": "Popup builtin section title",
+      "message": "Built-in engines"
+   },
+   "popupCancel": {
+      "description": "Popup cancel button",
+      "message": "Cancel"
+   },
+   "popupConfirmDelete": {
+      "description": "Popup confirm delete",
+      "message": "Delete custom engine \"$1\"?"
+   },
+   "popupCustomTitle": {
+      "description": "Popup custom section title",
+      "message": "Custom engines"
+   },
+   "popupDeleteTitle": {
+      "description": "Popup delete title",
+      "message": "Delete"
+   },
+   "popupEmptyCustom": {
+      "description": "Popup empty custom list",
+      "message": "No custom engines yet"
+   },
+   "popupEngineNameLabel": {
+      "description": "Popup engine name label",
+      "message": "Engine name"
+   },
+   "popupEngineNamePlaceholder": {
+      "description": "Popup engine name placeholder",
+      "message": "e.g. Bilibili"
+   },
+   "popupEngineUrlHintHtml": {
+      "description": "Popup engine url hint",
+      "message": "Examples:\u003Cbr>• https://search.bilibili.com/all?keyword={query}\u003Cbr>• https://www.google.com/search?q={query}\u003Cbr>• https://www.baidu.com/s?wd={query}"
+   },
+   "popupEngineUrlLabel": {
+      "description": "Popup engine url label",
+      "message": "Search URL template (must include {query})"
+   },
+   "popupEngineUrlPlaceholder": {
+      "description": "Popup engine url placeholder",
+      "message": "https://example.com/search?q={query}"
+   },
+   "popupSave": {
+      "description": "Popup save button",
+      "message": "Save"
+   },
+   "popupSaving": {
+      "description": "Popup saving",
+      "message": "Saving..."
+   },
+   "popupTitle": {
+      "description": "Popup title",
+      "message": "Search Engine Manager"
+   }
+}

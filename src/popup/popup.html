@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup">
+    <div class="tabs-row">
+      <div id="engine-tabs" class="engine-tabs"></div>
+      <div id="pager" class="pager">
+        <button id="prev-btn" class="pager-btn" aria-label="Prev">◀</button>
+        <span id="page-info" class="pager-info">1/1</span>
+        <button id="next-btn" class="pager-btn" aria-label="Next">▶</button>
+      </div>
+    </div>
+    <div class="search-row">
+      <input id="search-input" class="search-input" type="text" data-i18n-placeholder="contentSearchInputPlaceholder" placeholder="输入关键词">
+      <button id="search-confirm" class="search-confirm" data-i18n="contentConfirm">确定</button>
+    </div>
+  </div>
+
+  <script src="../js/utils.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

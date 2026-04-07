@@ -1,0 +1,254 @@
+{
+   "contentAddCurrent": {
+      "description": "Add current page",
+      "message": "添加当前页面"
+   },
+   "contentAddEngineTitle": {
+      "description": "Content add engine title",
+      "message": "添加新搜索引擎"
+   },
+   "contentAlertDeleteFailed": {
+      "description": "Delete failed with reason",
+      "message": "删除失败：$1"
+   },
+   "contentAlertDeleteFailedSimple": {
+      "description": "Delete failed simple",
+      "message": "删除失败，请重试"
+   },
+   "contentAlertDuplicate": {
+      "description": "Content duplicate engine",
+      "message": "该搜索引擎已存在，请勿重复添加"
+   },
+   "contentAlertNameRequired": {
+      "description": "Content name required",
+      "message": "请输入搜索引擎名称"
+   },
+   "contentAlertSaveFailed": {
+      "description": "Content save failed with reason",
+      "message": "保存失败：$1"
+   },
+   "contentAlertSaveFailedSimple": {
+      "description": "Content save failed simple",
+      "message": "保存失败，请重试"
+   },
+   "contentAlertUrlNeedQuery": {
+      "description": "Content url must include query",
+      "message": "链接模板必须包含 {query} 作为关键词占位符"
+   },
+   "contentAlertUrlRequired": {
+      "description": "Content url required",
+      "message": "请输入搜索链接模板"
+   },
+   "contentBoxTitle": {
+      "description": "Floating box title",
+      "message": "搜索引擎"
+   },
+   "contentCancel": {
+      "description": "Content cancel",
+      "message": "取消"
+   },
+   "contentClose": {
+      "description": "Close button",
+      "message": "关闭"
+   },
+   "contentConfirm": {
+      "description": "Confirm button",
+      "message": "确认"
+   },
+   "contentConfirmDelete": {
+      "description": "Confirm delete",
+      "message": "确定要删除自定义搜索引擎「$1」吗？"
+   },
+   "contentConfirmDeleteBuiltin": {
+      "description": "Confirm delete builtin",
+      "message": "确定要永久删除内置搜索引擎「$1」吗？"
+   },
+   "contentDefaultEngineName": {
+      "description": "Default engine name",
+      "message": "自定义搜索引擎"
+   },
+   "contentEngineNameLabel": {
+      "description": "Content engine name label",
+      "message": "搜索引擎名称"
+   },
+   "contentEngineNamePlaceholder": {
+      "description": "Content engine name placeholder",
+      "message": "例如：哔哩哔哩"
+   },
+   "contentEngineUrlHintHtml": {
+      "description": "Content engine url hint",
+      "message": "示例：\u003Cbr>• https://search.bilibili.com/all?keyword={query}\u003Cbr>• https://www.google.com/search?q={query}\u003Cbr>• https://www.baidu.com/s?wd={query}\u003Cbr>• https://blog.mingdao.com/?s={query}"
+   },
+   "contentEngineUrlLabel": {
+      "description": "Content engine url label",
+      "message": "搜索链接模板（必须包含 {query}）"
+   },
+   "contentEngineUrlPlaceholder": {
+      "description": "Content engine url placeholder",
+      "message": "https://search.bilibili.com/all?keyword={query}"
+   },
+   "contentManagerBuiltinTitle": {
+      "description": "Manager builtin section title",
+      "message": "内置搜索引擎"
+   },
+   "contentManagerCustomTitle": {
+      "description": "Manager custom section title",
+      "message": "自定义搜索引擎"
+   },
+   "contentManagerDeleteBuiltinTitle": {
+      "description": "Delete builtin tooltip",
+      "message": "点击永久删除内置搜索引擎"
+   },
+   "contentManagerDeleteTitle": {
+      "description": "Delete button tooltip",
+      "message": "点击删除"
+   },
+   "contentManagerEmptyCustom": {
+      "description": "Manager empty custom",
+      "message": "暂无自定义搜索引擎"
+   },
+   "contentManagerEmptyVisible": {
+      "description": "Manager empty visible list",
+      "message": "暂无可见的搜索引擎"
+   },
+   "contentManagerSortHint": {
+      "description": "Manager drag sort hint",
+      "message": "长按拖动排序"
+   },
+   "contentManagerTitle": {
+      "description": "Manager title",
+      "message": "搜索引擎管理"
+   },
+   "contentSave": {
+      "description": "Content save",
+      "message": "保存"
+   },
+   "contentSaving": {
+      "description": "Content saving",
+      "message": "保存中..."
+   },
+   "contentSearchInputPlaceholder": {
+      "description": "Search input placeholder",
+      "message": "输入搜索关键词"
+   },
+   "contentSearchInputTitle": {
+      "description": "Search input title",
+      "message": "请输入关键词"
+   },
+   "contentSearchInputTitleWithEngine": {
+      "description": "Search input title with engine",
+      "message": "请输入关键词（$1）"
+   },
+   "contentSiteSearch": {
+      "description": "Site search",
+      "message": "站内搜索"
+   },
+   "contentUnknownEngine": {
+      "description": "Unknown engine",
+      "message": "未识别搜索引擎"
+   },
+   "contentUnknownError": {
+      "description": "Content unknown error",
+      "message": "未知错误"
+   },
+   "extActionTitle": {
+      "description": "Action button title",
+      "message": "搜索引擎切换器"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "轻松切换搜索引擎，支持自定义搜索引擎"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "搜索吧"
+   },
+   "popupAddEngine": {
+      "description": "Popup add engine button",
+      "message": "添加新搜索引擎"
+   },
+   "popupAddTitle": {
+      "description": "Popup add engine dialog title",
+      "message": "添加新搜索引擎"
+   },
+   "popupAlertDeleteFailed": {
+      "description": "Popup delete failed",
+      "message": "删除失败，请重试"
+   },
+   "popupAlertDuplicate": {
+      "description": "Popup duplicate engine",
+      "message": "该搜索引擎已存在，请勿重复添加"
+   },
+   "popupAlertNameRequired": {
+      "description": "Popup name required",
+      "message": "请输入搜索引擎名称"
+   },
+   "popupAlertSaveFailed": {
+      "description": "Popup save failed",
+      "message": "保存失败，请重试"
+   },
+   "popupAlertUrlNeedQuery": {
+      "description": "Popup url must include query",
+      "message": "链接模板必须包含 {query} 作为关键词占位符"
+   },
+   "popupAlertUrlRequired": {
+      "description": "Popup url required",
+      "message": "请输入搜索链接模板"
+   },
+   "popupBuiltinTitle": {
+      "description": "Popup builtin section title",
+      "message": "内置搜索引擎"
+   },
+   "popupCancel": {
+      "description": "Popup cancel button",
+      "message": "取消"
+   },
+   "popupConfirmDelete": {
+      "description": "Popup confirm delete",
+      "message": "确定要删除自定义搜索引擎「$1」吗？"
+   },
+   "popupCustomTitle": {
+      "description": "Popup custom section title",
+      "message": "自定义搜索引擎"
+   },
+   "popupDeleteTitle": {
+      "description": "Popup delete title",
+      "message": "点击删除"
+   },
+   "popupEmptyCustom": {
+      "description": "Popup empty custom list",
+      "message": "暂无自定义搜索引擎"
+   },
+   "popupEngineNameLabel": {
+      "description": "Popup engine name label",
+      "message": "搜索引擎名称"
+   },
+   "popupEngineNamePlaceholder": {
+      "description": "Popup engine name placeholder",
+      "message": "例如：哔哩哔哩"
+   },
+   "popupEngineUrlHintHtml": {
+      "description": "Popup engine url hint",
+      "message": "示例：\u003Cbr>• https://search.bilibili.com/all?keyword={query}\u003Cbr>• https://www.google.com/search?q={query}\u003Cbr>• https://www.baidu.com/s?wd={query}"
+   },
+   "popupEngineUrlLabel": {
+      "description": "Popup engine url label",
+      "message": "搜索链接模板（必须包含 {query}）"
+   },
+   "popupEngineUrlPlaceholder": {
+      "description": "Popup engine url placeholder",
+      "message": "https://example.com/search?q={query}"
+   },
+   "popupSave": {
+      "description": "Popup save button",
+      "message": "保存"
+   },
+   "popupSaving": {
+      "description": "Popup saving",
+      "message": "保存中..."
+   },
+   "popupTitle": {
+      "description": "Popup title",
+      "message": "搜索引擎管理"
+   }
+}
