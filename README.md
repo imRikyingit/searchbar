@@ -79,9 +79,18 @@ Searchbar detects the keyword on the current search page, then builds the target
 - `_locales/`: localization resources
 - `icons/`: extension icons
 
+#### Screenshots
+Screenshot placeholders can be added later in `docs/`.
+
+Suggested captures:
+- Toolbar popup
+- Floating switcher on a search page
+- Search engine manager panel
+
 #### Notes
 - Current extracted version: **1.6.0**
 - This repository is based on the installed extension files currently available on the local machine
+- See `CONTRIBUTING.md` and `CHANGELOG.md` for project maintenance details
 
 ---
 
@@ -156,6 +165,15 @@ Searchbar detects the keyword on the current search page, then builds the target
 - `_locales/`：多语言文案
 - `icons/`：扩展图标
 
+#### 截图说明
+后续可以把项目截图放到 `docs/` 目录中。
+
+建议补充：
+- 工具栏弹窗截图
+- 搜索页浮动切换器截图
+- 搜索引擎管理面板截图
+
 #### 备注
 - 当前提取版本：**1.6.0**
 - 当前仓库基于本机已安装扩展文件整理而来
+- 项目维护说明可见 `CONTRIBUTING.md` 和 `CHANGELOG.md`
